@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is C22B-8564
+
+ Directory of D:\Git_project
+
+12/14/2019  06:32 PM    <DIR>          .
+12/14/2019  06:32 PM    <DIR>          ..
+12/14/2019  06:32 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  316,697,997,312 bytes free
